@@ -1,4 +1,4 @@
--------------- README for ICLR 2025 Submission 12212 --------------------
+# README for ICLR 2025 Submission 12212 
 
 There are three folders in this directory. In each is a run.sh which will reproduce our experiments. This can be run with "bash run.sh".
 
